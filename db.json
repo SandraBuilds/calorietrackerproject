@@ -1,0 +1,11 @@
+{
+  "users": [],
+  "logs": {
+    "food": {},
+    "steps": {}
+  },
+  "goals": {
+    "calories": 2000,
+    "steps": 8000
+  }
+}
